@@ -39,6 +39,8 @@ In terms of my career aspirations, I want to be working in client facing role th
 
 ### Resume 
 
+[Resume Hima Mistry_Final.pdf](https://github.com/hgm27/IDM-221-/files/1347756/Resume.Hima.Mistry_Final.pdf)
+
 ### Professional Photo 
 
 ![hima](https://user-images.githubusercontent.com/32005033/31062187-b40b7fda-a6f6-11e7-92f1-9f28e4fef2c3.jpg)
