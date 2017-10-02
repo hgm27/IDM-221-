@@ -1,20 +1,20 @@
 # Assignment 1 
 ## Document Inspiration 
 
-*Website 1: https://www.xprimegroupe.com/en/*
+**Website 1: https://www.xprimegroupe.com/en/**
 
 #### Reasons Why I Like/Don’t Like It
 
 I like the X-Prime’s website because at first glance the yellow and purple color scheme is visually appealing and draws in the user. On the “Our Services” page, there remains a yellow and purple frame of the window and as you scroll the frame remains in place but the contents of the page change. I found this a unique way to navigate through a page. The visuals throughout different pages move which I found interesting but a bit distracting from the words, which were already a little too small in my opinion. The website is has a very simple layout with only four pages to navigate to. The mobile version is also very user friendly. 
 
-*Website 2: http://www.condenast.com/advertising/*
+**Website 2: http://www.condenast.com/**
 
 #### Reasons Why I Like/Don’t Like It
 
 I like Conde Nast because unlike X-Prime it has a very simple layout and color scheme.  The colors are tones of black and white, however, with the photos the website integrates the content well that the page does not look so bland. The words are also written in a simple font. I like how for the pages on the menu how the brands drop down and fill up the entire page. Then the user can click on the one he/she is interested in knowing more about. The pictures/video are of high quality and drive most of the focus for each page. The mobile version is user friendly as well. 
 
 
-*Website 3: https://www.whatisblik.com/*
+**Website 3: https://www.whatisblik.com/**
 
 #### Reasons Why I Like/Don’t Like It
 
